@@ -1,0 +1,1 @@
+document.getElementById("p02").innerHTML=document.getElementById("h101").firstChild.nodeValue;
