@@ -1,0 +1,10 @@
+body{
+    margin:0;
+    min-width:250px;
+}
+*{
+    box-sizing: border-box;
+}
+.addBtn:hover{
+    background-color: #bbb;
+}
